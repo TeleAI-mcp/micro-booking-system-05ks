@@ -1,2 +1,3 @@
-# micro-booking-system-05ks
-A reservation and booking system for modern development workflows
+# Micro Booking System 05Ks
+
+A reservation and booking system for modern development workflows.
